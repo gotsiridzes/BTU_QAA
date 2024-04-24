@@ -1,0 +1,40 @@
+{
+    "title": "Test run",
+    "execution": {
+        "start_time": 1713382726.070009,
+        "end_time": 1713382768.3372443,
+        "duration": 42267,
+        "cumulative_duration": 36805
+    },
+    "stats": {
+        "passed": 1,
+        "failed": 0,
+        "skipped": 0,
+        "broken": 0,
+        "muted": 0,
+        "total": 1
+    },
+    "results": [
+        {
+            "id": "c833884f-eafe-4b96-8150-ef93b04bde60",
+            "title": "Create an account test",
+            "status": "passed",
+            "duration": 36805,
+            "thread": "19468-MainThread"
+        }
+    ],
+    "threads": [
+        "19468-MainThread"
+    ],
+    "suites": [],
+    "environment": null,
+    "host_data": {
+        "system": "Windows",
+        "node": "DESKTOP-BIMDMOC",
+        "release": "10",
+        "version": "10.0.19045",
+        "machine": "AMD64",
+        "python": "3.12.2.final.0",
+        "pip": "24.0"
+    }
+}

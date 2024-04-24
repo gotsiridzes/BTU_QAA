@@ -11,8 +11,7 @@
 		}
 	},
 	"testops": {
-		"project": "Saba Gotsiridze",  //"ToDo": აქ უნდა იყოს პროექტის კოდი Project code - შენ გიწერია პროექტის სახელი , Settings -> Project code = SG შენი პროექტის შემთხვევაში
-		//qase.config.json უნდა ერქვას ფაილს, ამასაც აქვს მნიშვნელობა
+		"project": "SG",
 		"api": {
 			"token": "b7f5024bbc4be1fc5604edcf2552bbdb05153fac514132aa5b56d19a8bf5367b",
 			"host": "qase.io"

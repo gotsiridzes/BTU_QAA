@@ -1,0 +1,24 @@
+{
+    "id": "c833884f-eafe-4b96-8150-ef93b04bde60",
+    "title": "Create an account test",
+    "signature": "Tests/test_create_an_account.py::test_create_an_account",
+    "run_id": null,
+    "testops_id": 2,
+    "execution": {
+        "start_time": 1713382731.530266,
+        "status": "passed",
+        "end_time": 1713382768.3355293,
+        "duration": 36805,
+        "stacktrace": null,
+        "thread": "19468-MainThread"
+    },
+    "fields": {},
+    "attachments": [],
+    "steps": [],
+    "params": {},
+    "author": null,
+    "relations": [],
+    "muted": false,
+    "message": null,
+    "suite": null
+}

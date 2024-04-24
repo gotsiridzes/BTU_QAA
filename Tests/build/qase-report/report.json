@@ -1,0 +1,30 @@
+{
+    "title": "Test run",
+    "execution": {
+        "start_time": 1713381981.6944654,
+        "end_time": 1713381981.8878171,
+        "duration": 193,
+        "cumulative_duration": 0
+    },
+    "stats": {
+        "passed": 0,
+        "failed": 0,
+        "skipped": 0,
+        "broken": 0,
+        "muted": 0,
+        "total": 0
+    },
+    "results": [],
+    "threads": [],
+    "suites": [],
+    "environment": null,
+    "host_data": {
+        "system": "Windows",
+        "node": "DESKTOP-BIMDMOC",
+        "release": "10",
+        "version": "10.0.19045",
+        "machine": "AMD64",
+        "python": "3.12.2.final.0",
+        "pip": "24.0"
+    }
+}
