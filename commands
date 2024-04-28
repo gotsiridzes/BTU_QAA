@@ -1,0 +1,2 @@
+pytest --qase-mode=testops  --html=test_report_2.html  --qase-testops-api-token=b7f5024bbc4be1fc5604edcf2552bbdb05153fac514132aa5b56d19a8bf5367b --qase-testops-project="SG"
+(.venv) PS C:\Users\Gotsi\PycharmProjects\Task1> python -m pytest Tests/ --html=test_report.html                                                                                                                             
